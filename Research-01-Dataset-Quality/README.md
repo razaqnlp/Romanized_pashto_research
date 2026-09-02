@@ -1,4 +1,4 @@
-# Research 01: Dataset Quality
+# Research 01: Dataset Quality checking
 
 This project investigates the quality, consistency, coverage, and preparation of datasets for Romanized Pashto NLP.
 
