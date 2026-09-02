@@ -1,4 +1,4 @@
-# Research 03: Sentiment Analysis
+# Research 03: Sentiment Analysis of Romanaized pashto language
 
 This project explores sentiment analysis for Romanized Pashto text, including dataset creation, modeling, and evaluation.
 
