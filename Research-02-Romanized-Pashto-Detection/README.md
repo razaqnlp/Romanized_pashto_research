@@ -1,4 +1,4 @@
-# Research 02: Romanized Pashto Detection
+# Research 02: Romanized Pashto Language Detection
 
 This project develops methods for identifying Romanized Pashto text in multilingual and noisy text collections.
 
