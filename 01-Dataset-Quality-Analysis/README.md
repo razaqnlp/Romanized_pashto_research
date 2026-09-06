@@ -5,7 +5,7 @@
 ## Full Analysis Article
 A detailed write-up of these tests and findings is available here:  
 → [AI genrated Language vs Human Real Language]([https://your-article-link.com](https://www.linkedin.com/pulse/exploring-ai-generated-romanized-pashto-data-does-really-abdul-razaq-7m7lf
-)
+))
 
 
 This repository contains the results of a systematic data quality, statistical, and linguistic analysis performed on a Romanized Pashto sentiment corpus. The dataset appears to consist primarily of **AI-generated** short-form text (chat-style / social-media style) labeled for sentiment.
